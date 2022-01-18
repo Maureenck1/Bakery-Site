@@ -1,0 +1,31 @@
+[
+   {
+      "name":"Straw_Berry_Cake",
+	  "price1kg":"300",
+	  "price2kg":"600",
+      "price3kg":"900",
+      "price4kg":"1200"
+   },
+   {
+    "name":"Plain_Cake",
+    "price1kg":"400",
+    "price2kg":"800",
+    "price3kg":"1200",
+    "price4kg":"1600"
+ },
+ {
+    "name":"Carrot_Cake_With_Pink_glaze",
+    "price1kg":"200",
+    "price2kg":"400",
+    "price3kg":"600",
+    "price4kg":"800"
+ },
+ {
+    "name":"chocolate_Cake_decorated_with_berries",
+    "price1kg":"350",
+    "price2kg":"700",
+    "price3kg":"1050",
+    "price4kg":"1400"
+ }
+
+]

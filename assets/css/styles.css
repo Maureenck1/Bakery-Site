@@ -1,0 +1,419 @@
+.welcome-container {
+  max-width:800px;
+  margin:0 auto;
+}
+
+.welcome-heading {
+  text-align:center;
+}
+
+.welcome-div {
+  padding-top:20px;
+}
+
+.welcome-p {
+  text-align:center;
+}
+
+.h {
+  padding-top:0px;
+}
+
+.jumbotron {
+  text-align:center;
+  background-color:rgba(255,255,255,0.75);
+  max-width:800px;
+  margin:0 auto;
+  border-radius:25px;
+  margin-top:70px;
+}
+
+.jumbotron {
+  text-align:center;
+  background-color:rgba(255,255,255,0.75);
+  max-width:800px;
+  margin:0 auto;
+  border-radius:25px;
+  margin-top:70px;
+}
+
+.promo {
+  background:url(../../assets/img/pexels-photo-192933.jpeg);
+  padding-bottom:10px;
+  padding-top:10px;
+}
+
+.explanation {
+  text-align:center;
+}
+
+.topic {
+  text-align:center;
+}
+
+.icons {
+  padding-left:80px;
+}
+
+body {
+  background-color:rgb(237,233,233);
+}
+
+.cakes {
+  text-align:center;
+}
+
+#wedding_cake {
+  background-color:rgb(233,249,235);
+}
+
+.col.item {
+  text-align:center;
+  /*background-color:red;*/
+}
+
+.footer-clean {
+  background-color:rgb(240,214,214);
+  font-size:20px;
+  padding:8px;
+}
+
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+  color:rgba(0,0,0,.9);
+  background-color:rgb(240,12,245);
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+  color:rgba(0,0,0,.7);
+}
+
+.focus {
+  background-color:rgb(240,12,245);
+}
+
+.promo-text {
+  padding-top:0px;
+}
+
+.why-texts {
+  text-align:center;
+}
+
+@media (max-width: 768px) {
+  .jumbotron {
+    margin-top:100px;
+  }
+}
+
+@media (max-width: 768px) {
+  .navbar {
+    font-size:13px;
+    margin-left:-10px;
+  }
+}
+
+@media (max-width: 768px) {
+  .cake {
+    font-size:30px;
+  }
+}
+
+@media (min-width: 768px) {
+  .promo-heading {
+    font-size:45px;
+  }
+}
+
+.main-box {
+  margin-top:55px;
+  /*background-color:rgb(193,220,194);*/
+  /*text-align:center;*/
+}
+
+body {
+  background-color:rgb(193,220,194);
+}
+
+.link a: link {
+  /*background-color:red;*/
+  text-decoration:none;
+}
+
+.head {
+  text-align:center;
+  padding-bottom:20px;
+  padding-top:20px;
+}
+
+.left-col {
+  /*margin-right:1px;*/
+  text-align:center;
+}
+
+.head-1 {
+  text-align:center;
+}
+
+.footer {
+  padding-top:0px;
+}
+
+@media (max-width: 768px) {
+  .contacts-loggo {
+    font-size:12px;
+  }
+}
+
+.heads {
+  margin-top:70px;
+  text-align:center;
+  margin-bottom:30px;
+}
+
+@media (max-width: 576px) {
+  .heads2 {
+    margin-top:70px;
+    text-align:center;
+    margin-bottom:30px;
+    font-size:30px;
+  }
+}
+
+@media (max-width: 300px) {
+  .heads2 {
+    margin-top:70px;
+    text-align:center;
+    margin-bottom:30px;
+    font-size:10px;
+  }
+}
+
+.service {
+  text-align:center;
+  color:blue;
+}
+
+@media (max-width: 768px) {
+  .heads {
+    font-size:21px;
+  }
+}
+
+@media (max-width: 768px) {
+  .link {
+    font-size:21px;
+  }
+}
+
+@media (max-width: 768px) {
+  .service {
+    font-size:21px;
+    color:blue;
+  }
+}
+
+@media (min-width: 768px) {
+  .heads {
+    font-size:27px;
+  }
+}
+
+@media (min-width: 992px) {
+  .heads {
+    font-size:35px;
+  }
+}
+
+.head-2 {
+  text-align:center;
+}
+
+.cake-headings {
+  text-align:center;
+}
+
+.paragraph {
+  text-align:center;
+}
+
+#breads {
+  background-color:red;
+}
+
+.p2 {
+}
+
+#index-gallery {
+  background-color:#bccaec;
+}
+
+#navbar-novice {
+}
+
+#navbar-novice {
+  background-color:black;
+}
+
+#cake-details-div {
+  text-align:center;
+  background-color:rgb(200,246,243);
+}
+
+#details-body {
+  background-image:red;
+}
+
+@media (min-width: 992px) {
+  #img-size {
+    width:500px;
+    height:400px;
+  }
+}
+
+#img-size {
+  height:400px;
+  width:500px;
+}
+
+#ingidients-heading {
+  text-align:center;
+}
+
+#price {
+  text-align:center;
+}
+
+.price-span {
+  color:red;
+}
+
+.container-main {
+  margin-top:90px;
+}
+
+.order-div {
+  /*width:600px;*/
+  height:50px;
+  /*margin-left:100px;*/
+  /*text-align:center;*/
+}
+
+.mother-div2 {
+  text-align:center;
+  margin-bottom:30px;
+}
+
+.order-button {
+  /*margin-left:150px;*/
+}
+
+#ingridients-div {
+  background-color:rgb(237,177,177);
+  text-align:center;
+  font-weight:bold;
+}
+
+@media (max-width: 700px) {
+  #ingridients-div {
+    background-color:rgb(237,177,177);
+    /*text-align:center;*/
+    font-weight:bold;
+  }
+}
+
+#description {
+  font-weight:bold;
+  text-align:center;
+}
+
+#list {
+  /*text-align:center;*/
+}
+
+.price-span {
+  color:red;
+}
+
+@media (max-width: 700px) {
+  #cake-name {
+    font-size:15px;
+  }
+}
+
+@media (max-width: 400px) {
+  #loggo {
+    font-size:12px;
+  }
+}
+
+@media (max-width: 400px) {
+  .price-span {
+    font-size:25px;
+  }
+}
+
+@media (max-width: 400px) {
+  #cake-name {
+    font-size:25px;
+  }
+}
+
+#carousel-1 {
+}
+
+#img {
+  height:120px;
+}
+
+#heading {
+  margin-top:70px;
+  text-align:center;
+  text-decoration:underline;
+}
+
+.OfferJumbotron {
+  margin-top:0px;
+}
+
+#jumbotron {
+  margin-top:0px;
+  padding-top:0px;
+  padding-bottom:10px;
+  background-color:rgba(255,255,255, 0.5);
+}
+
+#offerDiv {
+  padding-bottom:30px;
+  margin-bottom:50px;
+}
+
+@media (max-width: 568px) {
+  #bar {
+    font-size:13px;
+  }
+}
+
+@media (max-width: 568px) {
+  #heading {
+    font-size:25px;
+  }
+}
+
+.offerPrice {
+  font-family:"monotype corsive";
+  text-align:center;
+  padding-top:25px;
+  color:rgb(255,20,125);
+  text-decoration:underline;
+  font-style:italic;
+}
+
+@media (max-width: 568px) {
+  .offerPrice {
+    font-size:20px;
+  }
+}
+
+#contact-heading {
+}
+
